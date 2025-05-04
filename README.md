@@ -37,7 +37,7 @@ The dataset used in this project is from [Netflix Titles on Kaggle](https://www.
 --
 
 ## 📸 Screenshots
-<img src='https://github.com/iMuhammadHassan/netflix-data-visualization/blob/8b935800d4f1167473b21f2dc89f976d30d6c158/netflix.png' width=500px height=400px/>
+<img src='https://github.com/iMuhammadHassan/netflix-data-visualization/blob/8b935800d4f1167473b21f2dc89f976d30d6c158/netflix.png' width=900px height=500px/>
 
 📌 License
 This project is open-source and available under the MIT License.
